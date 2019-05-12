@@ -50,6 +50,13 @@ docker run -d --name ahstatus -e SITE=test -v /root/my-sec-key.txt:/my-sec-key.t
 docker run -d --name watchtower -v /var/run/docker.sock:/var/run/docker.sock containrrr/watchtower ahstatus
 ```
 
+如果运行错误，需要删除先运行的 ahstatus，再按照上面的命令重启。(watchtower是负责自动更新ahstatus的，不需要重启)
+
+```
+docker container stop ahstatus
+docker container rm ahstatus
+```
+
 ## 4. 查看结果
 
 http://status.ah.edu.cn:3000/ 可以查看结果 
