@@ -52,9 +52,11 @@ gpg --export --armor > /root/my-pub-key.txt
 运行前请确保/root/my-sec-key.txt 文件存在，否则docker会自动建一个目录  /root/my-sec-key.txt 。
 
 ```
-docker run -d --name ahstatus -e SITE=test -v /root/my-sec-key.txt:/my-sec-key.txt bg6cq/ahstatus 
+docker run -d --name ahstatus -e SITE=test \
+     -v /root/my-sec-key.txt:/my-sec-key.txt bg6cq/ahstatus 
 
-docker run -d --name watchtower -v /var/run/docker.sock:/var/run/docker.sock containrrr/watchtower ahstatus
+docker run -d --name watchtower \
+     -v /var/run/docker.sock:/var/run/docker.sock containrrr/watchtower ahstatus
 ```
 
 如果运行错误，需要删除先运行的 ahstatus，再按照上面的命令重启。(watchtower是负责自动更新ahstatus的，不需要重启)
