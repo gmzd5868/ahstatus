@@ -40,7 +40,7 @@ gpg --export-secret-key --armor > /root/my-sec-key.txt
 gpg --export --armor > /root/my-pub-key.txt
 ```
 
-## 3. 
+## 3. 运行程序
 
 修改下面SITE=test中的test为自己学校的域名(作为测试点缩写)，执行以下命令，如果完全按照上面的步骤，只要虚拟机不重启，就不用管了。
 
@@ -49,3 +49,7 @@ docker run -d --name ahstatus -e SITE=test -v /root/my-sec-key.txt:/my-sec-key.t
 
 docker run -d --name watchtower -v /var/run/docker.sock:/var/run/docker.sock containrrr/watchtower ahstatus
 ```
+
+## 4. 查看结果
+
+http://status.ah.edu.cn:3000/ 可以查看结果 
