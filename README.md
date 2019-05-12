@@ -25,6 +25,10 @@ my-pub-key.txt 是公钥，发给我  james@ustc.edu.cn
 
 注意：生成密钥可能需要一段时间，等就是了。
 
+注意：生成密钥可能需要一段时间，等就是了。
+
+注意：生成密钥可能需要一段时间，等就是了。
+
 ```
 gpg --batch --gen-key <<EOF
 %no-protection
@@ -44,6 +48,8 @@ gpg --export --armor > /root/my-pub-key.txt
 ## 3. 运行程序
 
 修改下面SITE=test中的test为自己学校的域名(作为测试点缩写)，执行以下命令，如果完全按照上面的步骤，只要虚拟机不重启，就不用管了。
+
+运行前请确保/root/my-sec-key.txt 文件存在，否则docker会自动建一个目录  /root/my-sec-key.txt 。
 
 ```
 docker run -d --name ahstatus -e SITE=test -v /root/my-sec-key.txt:/my-sec-key.txt bg6cq/ahstatus 

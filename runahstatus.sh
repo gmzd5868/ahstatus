@@ -18,9 +18,9 @@ cat $$.tmp
 gpg --sign $$.tmp
 
 if [ $DEBUG ]; then
-	curl -F "debug=1" -F "report=@$$.tmp.gpg" http://222.195.81.227/ahstatus/report.php 2>/dev/null
+	curl -F "debug=1" -F "report=@$$.tmp.gpg" "http://222.195.81.227/ahstatus/report.php?site=${SITE}" 2>/dev/null
 else
-	curl -F "report=@$$.tmp.gpg" http://222.195.81.227/ahstatus/report.php 2>/dev/null
+	curl -F "report=@$$.tmp.gpg" "http://222.195.81.227/ahstatus/report.php?site=${SITE}" 2>/dev/null
 fi
 
 rm -f $$.tmp $$.tmp.gpg
