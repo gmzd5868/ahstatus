@@ -58,7 +58,7 @@ gpg --export --armor > /root/my-pub-key.txt
 docker run -d --name ahstatus -e SITE=test \
      -v /root/my-sec-key.txt:/my-sec-key.txt bg6cq/ahstatus 
 
-docker run -d --name watchtower \
+docker run -d --name watchtower --cleanup \
      -v /var/run/docker.sock:/var/run/docker.sock containrrr/watchtower ahstatus
 ```
 

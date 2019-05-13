@@ -25,7 +25,7 @@ www.ahcme.edu.cn https://www.ahcme.edu.cn/images/banner2.jpg
 #0554 淮南
 www.aust.edu.cn http://www.aust.edu.cn/images/rbg.png
 www.hnnu.edu.cn http://www.hnnu.edu.cn/_upload/article/images/32/84/69c1c0444ba2a62d4c8d76063f71/e9f9ed78-5fad-4ac2-8b5f-b793d2e3023a.jpg
-www.hnuu.edu.cn http://www.hnuu.edu.cn/
+www.hnuu.edu.cn http://www.hnuu.edu.cn/upload/20190228/1551339903934028593.jpg
 #0555 马鞍山
 www.ahut.edu.cn http://www.ahut.edu.cn/__local/7/DB/9B/C74C3A74F2F814717783FE0BADC_6F90DC25_58C6D.png
 www.hhuwtian.edu.cn http://www.hhuwtian.edu.cn/page/main1/images/bg.jpg
