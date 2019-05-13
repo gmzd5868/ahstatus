@@ -29,6 +29,9 @@ my-pub-key.txt 是公钥，发给我  james@ustc.edu.cn
 
 注意：生成密钥可能需要一段时间，等就是了。
 
+这一步做完后，再进行下一步 docker ... 命令。
+
+
 ```
 gpg --batch --gen-key <<EOF
 %no-protection
@@ -69,3 +72,14 @@ docker container rm ahstatus
 ## 4. 查看结果
 
 http://status.ah.edu.cn:3000/ 可以查看结果 
+
+## 5. 当前测试点
+
+| 测试点缩写 | 学校                         |
+| :--------- | :----------------------------
+| ustc       | 中国科学技术大学 教育网出口  |
+| xcvtc      | 宣城职业技术学院             |
+| xcvtc-cernet  | 宣城职业技术学院 教育网出口             |
+| whit       | 芜湖职业技术学院           |
+| ccert      | CCERT                    |
+| chu      | 巢湖学院                    |
