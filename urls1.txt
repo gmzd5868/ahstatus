@@ -3,7 +3,7 @@ www.chzu.edu.cn http://www.chzu.edu.cn/_upload/article/images/04/50/f95ccc094b9f
 www.ahstu.edu.cn http://www.ahstu.edu.cn/__local/4/C3/9D/048ED9385C8D6A6978F104B9F0D_A66AC11D_853A5.jpg
 www.chzc.edu.cn http://www.chzc.edu.cn/images/17/10/24/1de8lpupn3/b5.jpg
 #0551合肥
-www.ustc.edu.cn https://www.ustc.edu.cn/_upload/article/images/17/e1/ee4b5ff14638ace7a1d8f149e4c8/W020111025323969996504.png
+www.ustc.edu.cn https://www.ustc.edu.cn/.well-known/test.png
 www.ah.edu.cn https://www.ah.edu.cn/_upload/article/images/56/a9/0c4878404546b66f1e747808e2c3/W020140519598831055798.jpg
 www.ahu.edu.cn https://www.ahu.edu.cn/_upload/article/images/ca/f5/6dae4d22476d8124746b6514fbe5/c10ab29f-8d08-4a01-89ea-28047437bc84.jpg
 www.hfut.edu.cn http://www.hfut.edu.cn/_upload/article/images/ec/ed/ff484f8343e8941bff116a60687a/a724dafa-6921-4eb2-bef8-9b076bf3a474.jpg
