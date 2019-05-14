@@ -54,7 +54,17 @@ gpg --export --armor > /root/my-pub-key.txt
 
 运行前请确保/root/my-sec-key.txt 文件存在，否则docker会自动建一个目录  /root/my-sec-key.txt 。
 
+测试运行：
+
 ```
+docker run -it --name ahstatus -e SITE=test -e DEBUG=1\
+     -v /root/my-sec-key.txt:/my-sec-key.txt bg6cq/ahstatus 
+```
+
+运行时，会打印一些提示信息，如果数据上传正常，可以CTRL-C终止，改用如下命令正式运行。
+
+```
+docker container rm -f ahstatus
 docker run -d --name ahstatus -e SITE=test \
      -v /root/my-sec-key.txt:/my-sec-key.txt bg6cq/ahstatus 
 
@@ -82,3 +92,5 @@ http://status.ah.edu.cn:3000/ 可以查看结果
 | whit       | 芜湖职业技术学院           |
 | ccert      | CCERT                    |
 | chu      | 巢湖学院                    |
+| ahstu      | 安徽科技学院                  |
+| ahdy      | 安徽电子信息职院                  |
