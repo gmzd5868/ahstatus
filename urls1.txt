@@ -12,7 +12,7 @@ www.chu.edu.cn https://www.chu.edu.cn/_upload/article/images/61/e1/7cd449164d7eb
 www.aufe.edu.cn http://www.aufe.edu.cn/_upload/article/images/42/d6/7280b487484ebc8f35463a72ae0f/c0ed8232-3416-41fc-b712-4eff8e1bbff2.jpg
 www.bbmc.edu.cn http://www.bbmc.edu.cn/image/dhce.jpg
 www.bbxy.edu.cn http://www.bbxy.edu.cn/picture/article/21/ed/5b/d0e6781342df8570cadf330edae6/9ab2d0b3-82ba-46f5-b1bb-85f00d51dfc9.jpg
-www.avceit.cn http://www.avceit.cn/_upload/article/images/32/31/fdbd946c40b6a40fb1bf93bc8ea6/6f686bd4-c3fb-4539-bb55-bfd809dfb87e.png
+www.ahdy.edu.cn http://www.ahdy.edu.cn/_upload/article/images/32/31/fdbd946c40b6a40fb1bf93bc8ea6/6f686bd4-c3fb-4539-bb55-bfd809dfb87e.png
 #0553芜湖
 www.ahnu.edu.cn http://www.ahnu.edu.cn/uploads/20190424/20190424113539_62824.jpg
 www.ahpu.edu.cn http://www.ahpu.edu.cn/_upload/article/images/2c/5a/2370177b44f6a1792a0bee5d49e4/6815ef85-4503-4b54-93f8-8fb10af197d6.jpg
