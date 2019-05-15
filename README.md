@@ -94,3 +94,4 @@ http://status.ah.edu.cn:3000/ 可以查看结果
 | chu      | 巢湖学院                    |
 | ahstu      | 安徽科技学院                  |
 | ahdy      | 安徽电子信息职院                  |
+| ahau      | 安徽农业大学                  |

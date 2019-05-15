@@ -7,6 +7,7 @@ www.ustc.edu.cn https://www.ustc.edu.cn/.well-known/test.png
 www.ah.edu.cn https://www.ah.edu.cn/_upload/article/images/56/a9/0c4878404546b66f1e747808e2c3/W020140519598831055798.jpg
 www.ahu.edu.cn https://www.ahu.edu.cn/_upload/article/images/ca/f5/6dae4d22476d8124746b6514fbe5/c10ab29f-8d08-4a01-89ea-28047437bc84.jpg
 www.hfut.edu.cn http://www.hfut.edu.cn/_upload/article/images/ec/ed/ff484f8343e8941bff116a60687a/a724dafa-6921-4eb2-bef8-9b076bf3a474.jpg
+www.ahau.edu.cn https://www.ahau.edu.cn/images/content/2019-04/20190430113826142213.jpg
 www.chu.edu.cn https://www.chu.edu.cn/_upload/article/images/61/e1/7cd449164d7eb1a0d5d5cd0da94d/47602289-0197-4769-8810-ff200562bfb5.jpg
 #0552蚌埠
 www.aufe.edu.cn http://www.aufe.edu.cn/_upload/article/images/42/d6/7280b487484ebc8f35463a72ae0f/c0ed8232-3416-41fc-b712-4eff8e1bbff2.jpg
