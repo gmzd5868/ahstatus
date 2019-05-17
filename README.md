@@ -95,3 +95,5 @@ http://status.ah.edu.cn:3000/ 可以查看结果
 | ahstu      | 安徽科技学院                  |
 | ahdy      | 安徽电子信息职院                  |
 | ahau      | 安徽农业大学                  |
+| ahcme      | 安徽机电职业技术学院                  |
+| chzu      | 滁州学院                 |
