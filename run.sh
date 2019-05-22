@@ -22,9 +22,9 @@ fi
 echo SLEEP time: $SLEEP
 
 while true; do
-	date
+[ $DEBUG ] &&	date
 	bash runahstatus.sh
-	echo sleep $SLEEP
+[ $DEBUG ] &&	echo sleep $SLEEP
 	sleep $SLEEP
-	echo 
+[ $DEBUG ] &&	echo 
 done
