@@ -78,22 +78,49 @@ docker run -d --name watchtower \
 docker container rm -f ahstatus
 ```
 
-## 4. 查看结果
+## 4. 简单的运行方法
+
+如果认为以上启动命令行麻烦，可以采用docker-compose方式：
+
+编辑文件 `docker-compose.yml`，内容如下（注意修改SITE=test中的test）：
+
+```
+version: "3"
+services:
+  ahstatus:
+    image: bg6cq/ahstatus
+    volumes:
+      - /root/my-sec-key.txt:/my-sec-key.txt
+    environment:
+      - SITE=ustc
+  watchtower:
+    image: containrrr/watchtower
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+    command: --cleanup ahstatus
+```
+
+执行`docker-compose up -d` 即可。
+
+
+## 5. 查看结果
 
 http://status.ah.edu.cn:3000/ 可以查看结果 
 
-## 5. 当前测试点
+## 6. 当前测试点
 
-| 测试点缩写 | 学校                         |
-| :--------- | :----------------------------
-| ustc       | 中国科学技术大学 教育网出口  |
-| xcvtc      | 宣城职业技术学院             |
-| xcvtc-cernet  | 宣城职业技术学院 教育网出口             |
-| whit       | 芜湖职业技术学院           |
-| ccert      | CCERT                    |
-| chu      | 巢湖学院                    |
-| ahstu      | 安徽科技学院                  |
-| ahdy      | 安徽电子信息职院                  |
-| ahau      | 安徽农业大学                  |
-| ahcme      | 安徽机电职业技术学院                  |
-| chzu      | 滁州学院                 |
+| 测试点缩写   | 学校                         |
+| :---------   | :----------------------------
+| ustc         | 中国科学技术大学 教育网出口  |
+| xcvtc        | 宣城职业技术学院             |
+| xcvtc-cernet | 宣城职业技术学院 教育网出口  |
+| whit         | 芜湖职业技术学院             |
+| ccert        | CCERT                        |
+| chu          | 巢湖学院                     |
+| ahstu        | 安徽科技学院                 |
+| ahdy         | 安徽电子信息职院             |
+| ahau         | 安徽农业大学                 |
+| ahcme        | 安徽机电职业技术学院         |
+| chzu         | 滁州学院                     |
+| hfuu         | 合肥学院                     |
+| ahou         | 安徽广播电视大学             |
