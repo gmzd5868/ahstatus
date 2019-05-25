@@ -1,10 +1,19 @@
+#C9
+www.ustc.edu.cn https://www.ustc.edu.cn/.well-known/test.png
+www.tsinghua.edu.cn https://www.tsinghua.edu.cn/publish/thu2018/12031/20190429150919886560713/20190503065249979365666.jpg
+www.pku.edu.cn https://www.pku.edu.cn/images/content/2019-05/20190504221013750682.jpg
+www.sjtu.edu.cn https://www.sjtu.edu.cn/resource/upload/201904/20190429_021503_628.jpg
+www.zju.edu.cn http://www.zju.edu.cn/_upload/article/images/5f/cf/bb95e0f64feab2d04209db15ee13/c530f85b-f404-4f40-9b46-b3772e540ac0.jpg
+www.fudan.edu.cn http://www.fudan.edu.cn/files/slider/1920/1457.jpg
+www.hit.edu.cn http://www.hit.edu.cn/_upload/article/images/1d/a3/a4fadc444265acc4d52187808806/856dadb5-1dc8-472a-a656-dbf5a575e8b4.jpg
+www.nju.edu.cn https://www.nju.edu.cn/_upload/article/images/6e/50/94c71d314c6ab0d168e3eace12bd/6bd7e24e-9126-459c-9558-d2d46ce4d0cb.jpg
+www.xjtu.edu.cn http://www.xjtu.edu.cn/images/14/12/11/1tf5znre9c/20190506011.jpg
 #0550 滁州
 www.chzu.edu.cn http://www.chzu.edu.cn/_upload/article/images/04/50/f95ccc094b9f8b1be7b1f78ec35c/81072f4e-7605-4a60-8481-eeec129bf694.jpg
 www.ahstu.edu.cn http://www.ahstu.edu.cn/__local/4/C3/9D/048ED9385C8D6A6978F104B9F0D_A66AC11D_853A5.jpg
 www.chzc.edu.cn http://www.chzc.edu.cn/images/17/10/24/1de8lpupn3/b5.jpg
 www.czcvc.edu.cn http://www.czcvc.net/_mediafile/czcszyxy/files/20190506094123458.jpg
 #0551合肥
-www.ustc.edu.cn https://www.ustc.edu.cn/.well-known/test.png
 www.ah.edu.cn https://www.ah.edu.cn/_upload/article/images/56/a9/0c4878404546b66f1e747808e2c3/W020140519598831055798.jpg
 www.ahu.edu.cn https://www.ahu.edu.cn/_upload/article/images/ca/f5/6dae4d22476d8124746b6514fbe5/c10ab29f-8d08-4a01-89ea-28047437bc84.jpg
 www.hfut.edu.cn http://www.hfut.edu.cn/_upload/article/images/ec/ed/ff484f8343e8941bff116a60687a/a724dafa-6921-4eb2-bef8-9b076bf3a474.jpg
