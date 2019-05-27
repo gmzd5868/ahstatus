@@ -8,6 +8,8 @@ www.fudan.edu.cn http://www.fudan.edu.cn/files/slider/1920/1457.jpg
 www.hit.edu.cn http://www.hit.edu.cn/_upload/article/images/1d/a3/a4fadc444265acc4d52187808806/856dadb5-1dc8-472a-a656-dbf5a575e8b4.jpg
 www.nju.edu.cn https://www.nju.edu.cn/_upload/article/images/6e/50/94c71d314c6ab0d168e3eace12bd/6bd7e24e-9126-459c-9558-d2d46ce4d0cb.jpg
 www.xjtu.edu.cn http://www.xjtu.edu.cn/images/14/12/11/1tf5znre9c/20190506011.jpg
+#other
+www.xmu.edu.cn https://www.xmu.edu.cn/images/welcome_to_xmu_splash_nfzq.png
 #0550 滁州
 www.chzu.edu.cn http://www.chzu.edu.cn/_upload/article/images/04/50/f95ccc094b9f8b1be7b1f78ec35c/81072f4e-7605-4a60-8481-eeec129bf694.jpg
 www.ahstu.edu.cn http://www.ahstu.edu.cn/__local/4/C3/9D/048ED9385C8D6A6978F104B9F0D_A66AC11D_853A5.jpg
