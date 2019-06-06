@@ -10,6 +10,8 @@ www.nju.edu.cn https://www.nju.edu.cn/_upload/article/images/6e/50/94c71d314c6ab
 www.xjtu.edu.cn http://www.xjtu.edu.cn/images/14/12/11/1tf5znre9c/20190506011.jpg
 #other
 www.xmu.edu.cn https://www.xmu.edu.cn/images/welcome_to_xmu_splash_nfzq.png
+#ICP
+www.taobao.com https://img.alicdn.com/i2/2/TB12cBSirGYBuNjy0FoXXciBFXa
 #0550 滁州
 www.chzu.edu.cn http://www.chzu.edu.cn/_upload/article/images/04/50/f95ccc094b9f8b1be7b1f78ec35c/81072f4e-7605-4a60-8481-eeec129bf694.jpg
 www.ahstu.edu.cn http://www.ahstu.edu.cn/__local/4/C3/9D/048ED9385C8D6A6978F104B9F0D_A66AC11D_853A5.jpg
@@ -63,7 +65,7 @@ www.ahdy.edu.cn http://www.ahdy.edu.cn/_upload/article/images/32/31/fdbd946c40b6
 #0553芜湖
 www.ahnu.edu.cn http://www.ahnu.edu.cn/uploads/20190424/20190424113539_62824.jpg
 www.ahpu.edu.cn http://www.ahpu.edu.cn/_upload/article/images/2c/5a/2370177b44f6a1792a0bee5d49e4/6815ef85-4503-4b54-93f8-8fb10af197d6.jpg
-www.wnmc.edu.cn http://www.wnmc.edu.cn/_upload/article/images/9c/b3/842b0ebc407ba86c4c16020be2fe/dea6227e-ace9-4a75-b94d-058edc83dfda.jpg
+www.wnmc.edu.cn https://www.wnmc.edu.cn/_upload/article/images/9c/b3/842b0ebc407ba86c4c16020be2fe/dea6227e-ace9-4a75-b94d-058edc83dfda.jpg
 www.aiit.edu.cn https://www.aiit.edu.cn/uploads/25/image/public/201903/20190319145755_f2pai1sp9f.jpg
 www.ahzyygz.edu.cn http://www.ahzyygz.edu.cn:9994/Uploads/image/20181226/5c22f5601ebfa.jpg
 www.whit.edu.cn http://www.whit.edu.cn/Template/default/images/1.png
