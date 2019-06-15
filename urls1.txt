@@ -21,7 +21,7 @@ www.czcvc.edu.cn http://www.czcvc.net/_mediafile/czcszyxy/files/2019050609412345
 www.ah.edu.cn https://www.ah.edu.cn/_upload/article/images/56/a9/0c4878404546b66f1e747808e2c3/W020140519598831055798.jpg
 www.ahu.edu.cn https://www.ahu.edu.cn/_upload/article/images/ca/f5/6dae4d22476d8124746b6514fbe5/c10ab29f-8d08-4a01-89ea-28047437bc84.jpg
 www.hfut.edu.cn http://www.hfut.edu.cn/_upload/article/images/ec/ed/ff484f8343e8941bff116a60687a/a724dafa-6921-4eb2-bef8-9b076bf3a474.jpg
-www.ahau.edu.cn https://www.ahau.edu.cn/images/content/2019-04/20190430113826142213.jpg
+www.ahau.edu.cn https://www.ahau.edu.cn/__local/C/7E/EF/30C60161070D1322F2E5628DE75_F72EC505_9BD77.png
 www.chu.edu.cn https://www.chu.edu.cn/_upload/article/images/61/e1/7cd449164d7eb1a0d5d5cd0da94d/47602289-0197-4769-8810-ff200562bfb5.jpg
 www.ahmu.edu.cn http://www.ahmu.edu.cn/_upload/article/images/82/3f/e9d28f904d8a809b731713a9e08e/8cd290d9-db35-4a1a-bbd8-ee24a3bc3e5d.jpg
 www.afc.edu.cn http://www.aftvc.com/acnews/uppic/273592011155112_4.gif
@@ -85,7 +85,7 @@ www.avcmt.edu.cn http://admin.avcmt.edu.cn/Public/Upload/news/2/2019-05-12/8779b
 #0556 安庆
 www.aqnu.edu.cn http://www.aqnu.edu.cn/images/shpg1.jpg
 www.aqvtc.edu.cn http://www.aqvtc.edu.cn/_upload/article/images/6b/01/85e11d2248ef91a342bdcfa9694e/f490ccdc-ea85-4077-9e14-51a3a4f6f1bf.jpg
-www.tctc.edu.cn http://www.tctc.edu.cn/media/images/body_bg.jpg
+www.tctc.edu.cn http://www.tctc.edu.cn/_upload/article/images/d1/34/fdd4db9549dfa503312fcdb2d7f0/29ea14e1-de9e-4018-a6fe-1e8d3eb780fe.jpg
 #0557 宿州
 www.ahszu.edu.cn http://www.ahszu.edu.cn/image2013/top1.jpg
 #0558 阜阳
