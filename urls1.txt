@@ -97,7 +97,7 @@ cie.fync.edu.cn http://cie.fync.edu.cn/uploads/others/20190426/others.1556275373
 www.bzuu.edu.cn http://www.bzuu.edu.cn/_upload/article/images/ec/68/ed5d56204a0da49bfd494a43e50e/e2567331-9b8a-449a-a32b-07a29f6c7548.jpg
 www.bzvtc.com http://www.bzvtc.com/upload/main/gg_pic/a250eb4bc35e49db9455682cb99d59d0_1920_468.jpg
 #0559 黄山
-www.hsu.edu.cn http://www.hsu.edu.cn/_upload/article/images/eb/23/1886fe5049c191e6b1d057df5bc2/4c28ac8b-7604-4ced-b7b9-f985bc275710.jpg
+www.hsu.edu.cn https://www.hsu.edu.cn/_upload/article/images/eb/23/1886fe5049c191e6b1d057df5bc2/4c28ac8b-7604-4ced-b7b9-f985bc275710.jpg
 www.hszy.edu.cn http://www.hszy.edu.cn/images/pjw.png
 #0561 淮北
 www.chnu.edu.cn http://www.chnu.edu.cn/Template/Default/Skin/hbsd/images/logo.png
