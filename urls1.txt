@@ -19,8 +19,8 @@ www.chzc.edu.cn https://www.chzc.edu.cn/images/17/10/24/1de8lpupn3/b5.jpg
 www.czcvc.edu.cn http://www.czcvc.net/_mediafile/czcszyxy/files/20190506094123458.jpg
 #0551合肥
 www.ah.edu.cn https://www.ah.edu.cn/_upload/article/images/56/a9/0c4878404546b66f1e747808e2c3/W020140519598831055798.jpg
-www.ahu.edu.cn https://www.ahu.edu.cn/_upload/article/images/ca/f5/6dae4d22476d8124746b6514fbe5/c10ab29f-8d08-4a01-89ea-28047437bc84.jpg
-www.hfut.edu.cn http://www.hfut.edu.cn/_upload/article/images/ec/ed/ff484f8343e8941bff116a60687a/a724dafa-6921-4eb2-bef8-9b076bf3a474.jpg
+www.ahu.edu.cn http://www.ahu.edu.cn/_upload/article/images/ca/f5/6dae4d22476d8124746b6514fbe5/c10ab29f-8d08-4a01-89ea-28047437bc84.jpg
+www.hfut.edu.cn http://www.hfut.edu.cn/images/banner30.jpg
 www.ahau.edu.cn https://www.ahau.edu.cn/__local/C/7E/EF/30C60161070D1322F2E5628DE75_F72EC505_9BD77.png
 www.chu.edu.cn https://www.chu.edu.cn/_upload/article/images/61/e1/7cd449164d7eb1a0d5d5cd0da94d/47602289-0197-4769-8810-ff200562bfb5.jpg
 www.ahmu.edu.cn http://www.ahmu.edu.cn/_upload/article/images/82/3f/e9d28f904d8a809b731713a9e08e/8cd290d9-db35-4a1a-bbd8-ee24a3bc3e5d.jpg
@@ -33,7 +33,7 @@ www.ajduc.edu.cn https://www.ajduc.edu.cn/_upload/article/images/ed/be/da5d9db44
 www.acvtc.edu.cn http://www.ahctc.com:81/uploadFile/QQ%E5%9B%BE%E7%89%8720190520161635.jpg
 www.ahjgxy.edu.cn http://www.ahjgxy.edu.cn/cn/images/bodybg.jpg
 www.ahly.edu.cn http://www.ahly.edu.cn/lsxyimages/top.swf
-www.slu.edu.cn http://www.slu.edu.cn/img/weibocode.png
+www.slu.edu.cn https://www.slu.edu.cn/img/weibocode.png
 www.ahsjxy.cn http://www.ahsjxy.cn/_upload/tpl/00/03/3/template3/htmlRes/index_res/index_bg.gif
 www.ahzsks.cn https://www.ahzsks.cn/img/footer-bg.png
 www.ahsdxy.edu.cn http://www.ahsdxy.ah.edu.cn/portal/upload/2018-10-24/15403795077804028e49566a2157a1810166a5c5fc441a79.jpg
