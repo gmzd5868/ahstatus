@@ -34,7 +34,7 @@ www.acvtc.edu.cn http://www.ahctc.com:81/uploadFile/QQ%E5%9B%BE%E7%89%8720190520
 www.ahjgxy.edu.cn http://www.ahjgxy.edu.cn/cn/images/bodybg.jpg
 www.ahly.edu.cn http://www.ahly.edu.cn/lsxyimages/top.swf
 www.slu.edu.cn https://www.slu.edu.cn/img/weibocode.png
-www.ahsjxy.cn http://www.ahsjxy.cn/_upload/tpl/00/03/3/template3/htmlRes/index_res/index_bg.gif
+www.ahsjxy.edu.cn http://www.ahsjxy.edu.cn/_upload/tpl/00/03/3/template3/htmlRes/index_res/index_bg.gif
 www.ahzsks.cn https://www.ahzsks.cn/img/all.png
 www.ahsdxy.edu.cn https://www.ahsdxy.edu.cn/images/rongyu1.jpg
 www.aflu.edu.cn http://www.aflu.edu.cn/images/bg2.jpg
@@ -65,6 +65,7 @@ www.wenda.edu.cn http://www.wenda.edu.cn/upload/image/20180830/20180830175923_41
 www.acac.edu.cn http://www.acac.cn/statics/images/p201910.jpg
 www.amtc.edu.cn http://www.amtc.edu.cn/style/WEB1616_D/banner_01.png
 www.ahiec.edu.cn http://www.ahiec.net/ewebeditor/UploadFile/2020330131856303.jpg
+www.ahyz.edu.cn http://www.ahyz.edu.cn/__local/A/29/98/51001D958667760C99D36E53682_21A59D24_9E540.png
 #0552 蚌埠
 www.aufe.edu.cn http://www.aufe.edu.cn/_upload/article/images/42/d6/7280b487484ebc8f35463a72ae0f/c0ed8232-3416-41fc-b712-4eff8e1bbff2.jpg
 www.bbmc.edu.cn https://www.bbmc.edu.cn/style/banner3.png
